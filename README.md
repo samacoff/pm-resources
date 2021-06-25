@@ -6,8 +6,17 @@ All the resources I've found useful as Platform Product Manager aka an "Internal
 - https://jawwad.me/guide-internal-product-management/
 
 # Types of Internal Product Management 
+
 ## Platform as a Product
-## Data as a Producy 
+### Articles
+- Thought Works Technology Radar https://www.thoughtworks.com/radar/techniques/applying-product-management-to-internal-platforms
+- https://queue.acm.org/detail.cfm?id=3454124
+- 
+
+### Books 
+- Team Topologies 
+- Accelertate
+## Data as a Product 
 ## Security as a Product 
 ## IT as a Product 
 ## HR as a Product 
@@ -26,3 +35,5 @@ https://open.spotify.com/episode/5RSo0XqYs1ofXZQYNzEk3H?si=of_SmV9rRkuBeqOR8hsGv
 
 ## Case Studies of Internal Products 
 Uber's IT engineering team <https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/> 
+Platform Product at HelloFresh - https://engineering.hellofresh.com/advocating-for-a-product-mindset-within-platform-teams-and-how-we-do-it-at-hellotech-part-1-fc1fbf8ae015
+
