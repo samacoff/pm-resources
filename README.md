@@ -5,7 +5,12 @@ All the resources I've found useful as Platform Product Manager aka an "Internal
 - https://medium.com/swlh/tales-of-an-internal-product-manager-c5b426340477
 - https://jawwad.me/guide-internal-product-management/
 
-# Are your customers technical (engineers, qa, ?
+# Types of Internal Product Management 
+## Platform as a Product
+## Data as a Producy 
+## Security as a Product 
+## IT as a Product 
+## HR as a Product 
 
 
 # Are your customers other product managers?
