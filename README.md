@@ -3,7 +3,21 @@ All the resources I've found useful as Platform Product Manager aka an "Internal
 
 ## Intro to Internal PM
 - https://medium.com/swlh/tales-of-an-internal-product-manager-c5b426340477
+- https://jawwad.me/guide-internal-product-management/
+
+# Are your customers technical (engineers, qa, ?
+
+
+# Are your customers other product managers?
+
+# Are your customers  ?
+
+
+
+
+# Podcasts 
+https://open.spotify.com/episode/5RSo0XqYs1ofXZQYNzEk3H?si=of_SmV9rRkuBeqOR8hsGvw&amp;dl_branch=1
 - 
 
-## Case Studies 
+## Case Studies of Internal Products 
 Uber's IT engineering team <https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/> 
