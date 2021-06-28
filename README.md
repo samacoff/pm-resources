@@ -12,8 +12,9 @@ All the resources I've found useful as Platform Product Manager aka an "Internal
 
 ### Articles
 - Thought Works Technology Radar https://www.thoughtworks.com/radar/techniques/applying-product-management-to-internal-platforms
-- https://queue.acm.org/detail.cfm?id=3454124
-- https://teamtopologies.com/events/2021/04/29/wtf-is-platform-as-a-product-2nd-edition
+- How to measure Developer Productivity https://queue.acm.org/detail.cfm?id=3454124
+- https://martinfowler.com/articles/talk-about-platforms.html
+- Great introduction to platform as a product team organisation from Team Topologies book, also highly recommend reading the book, linked below  in books section https://teamtopologies.com/events/2021/04/29/wtf-is-platform-as-a-product-2nd-edition
 - https://engineering.hellofresh.com/advocating-for-a-product-mindset-within-platform-teams-and-how-we-do-it-at-hellotech-part-1-fc1fbf8ae015
 
 ### Books 
