@@ -39,7 +39,7 @@ Platform Product Management is the productization of the engineering Platform. A
 
 ## Data as a Product 
 
-<em>Have something to add? Make a contribution!<em>
+Have something to add? Make a contribution!
 
 ### Articles
 
@@ -49,7 +49,7 @@ Platform Product Management is the productization of the engineering Platform. A
 
 ## Security as a Product 
 
-<em>Have something to add? Make a contribution!<em>
+Have something to add? Make a contribution!
 
 ### Articles
 ### Books
@@ -57,7 +57,7 @@ Platform Product Management is the productization of the engineering Platform. A
 
 ## IT as a Product 
   
-<em>Have something to add? Make a contribution!<em>
+Have something to add? Make a contribution!
 
 ### Articles
 - [Shift IT Projects to Products](https://www.thoughtworks.com/insights/blog/shift-it-projects-products-part-1-what-product)
