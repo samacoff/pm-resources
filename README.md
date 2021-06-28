@@ -38,22 +38,31 @@ Platform Product Management is the productization of the engineering Platform. A
 
 ## Data as a Product 
 
+<em>Have something to add? Make a contribution!<em>
+
 ### Articles
+
 ### Books
+
 ### Podcasts 
-- 
+
 ## Security as a Product 
+
+<em>Have something to add? Make a contribution!<em>
 
 ### Articles
 ### Books
 ### Podcasts 
 
 ## IT as a Product 
+  
+<em>Have something to add? Make a contribution!<em>
 
 ### Articles
+[Uber's IT engineering team](https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/)
+
 ### Books
 ### Podcasts 
-[Uber's IT engineering team](https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/)
 
 
 ## HR as a Product 
