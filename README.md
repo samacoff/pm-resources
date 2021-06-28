@@ -6,7 +6,6 @@ All the resources I've found useful as Platform Product Manager aka an "Internal
 - [Tales of being a Internal PM](https://medium.com/swlh/tales-of-an-internal-product-manager-c5b426340477) 
 - [How to be an effective internal PM](https://medium.com/swlh/how-to-be-a-more-effective-internal-product-manager-e14143e3343)
 - [Podcast on Managing Internal Tools](https://open.spotify.com/episode/5RSo0XqYs1ofXZQYNzEk3H?si=of_SmV9rRkuBeqOR8hsGvw&amp;dl_branch=1) 
-- [Accenture's Daniella Patrick on how HR is product management - Mixpanel](https://mixpanel.com/blog/accentures-daniella-patrick-hr-is-product-management/)
 
 # Types of Internal Product Management 
 
@@ -70,6 +69,7 @@ Platform Product Management is the productization of the engineering Platform. A
 ## HR as a Product 
 
 ### Articles
+- [Accenture's Daniella Patrick on how HR is product management - Mixpanel](https://mixpanel.com/blog/accentures-daniella-patrick-hr-is-product-management/)
 - [Applying product thinking to HR](https://www.peoplemattersglobal.com/blog/hr-technology/applying-product-thinking-to-hr-26237)
 - [Product Thinking for HR](https://www.google.com/amp/s/www.peoplemattersglobal.com/amp-hr-technology-applying-product-thinking-to-hr-26237)
 
