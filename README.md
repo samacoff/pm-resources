@@ -60,7 +60,8 @@ Platform Product Management is the productization of the engineering Platform. A
 <em>Have something to add? Make a contribution!<em>
 
 ### Articles
-[Uber's IT engineering team](https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/)
+- [Shift IT Projects to Products](https://www.thoughtworks.com/insights/blog/shift-it-projects-products-part-1-what-product)
+- [Uber's IT engineering team](https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/)
 
 ### Books
 ### Podcasts 
