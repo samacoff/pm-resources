@@ -2,7 +2,7 @@
 All the resources I've found useful as Platform Product Manager aka an "Internal PM". Why are internal experiences important you ask? Ever joined a new company and started poking around their internal tools with a bit of disgust on your face? Employees are users too! Engineers are solving such complicated problems, don't make their lives harder with a poorly design internal tool that goes down every few days. I have always felt that treating your internal products with as much attention as your external ones can have huge returns on investement and make the lives of your employees easier and more enjoyable.  
 
 ## Intro to Internal Product Management 
-- [Ultimate Guide for Internal PM's](https://jawwad.me/guide-internal-product-management/_) 
+- [Ultimate Guide for Internal PM's](https://jawwad.me/guide-internal-product-management/) 
 - [Tales of being a Internal PM](https://medium.com/swlh/tales-of-an-internal-product-manager-c5b426340477) 
 - [How to be an effective internal PM](https://medium.com/swlh/how-to-be-a-more-effective-internal-product-manager-e14143e3343)
 - [Podcast on Managing Internal Tools](https://open.spotify.com/episode/5RSo0XqYs1ofXZQYNzEk3H?si=of_SmV9rRkuBeqOR8hsGvw&amp;dl_branch=1) 
