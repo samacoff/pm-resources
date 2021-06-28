@@ -69,7 +69,7 @@ Platform Product Management is the productization of the engineering Platform. A
 
 ### Articles
 - [Applying product thinking to HR](https://www.peoplemattersglobal.com/blog/hr-technology/applying-product-thinking-to-hr-26237)
-- [Product ThInking for HR](https://www.google.com/amp/s/www.peoplemattersglobal.com/amp-hr-technology-applying-product-thinking-to-hr-26237)
+- [Product Thinking for HR](https://www.google.com/amp/s/www.peoplemattersglobal.com/amp-hr-technology-applying-product-thinking-to-hr-26237)
 
 ### Books 
 
