@@ -5,6 +5,7 @@ All the resources I've found useful as Platform Product Manager aka an "Internal
 - [Ultimate Guide for Internal PM's](https://jawwad.me/guide-internal-product-management/_) 
 - [Tales of being a Internal PM](https://medium.com/swlh/tales-of-an-internal-product-manager-c5b426340477) 
 - [How to be an effective internal PM](https://medium.com/swlh/how-to-be-a-more-effective-internal-product-manager-e14143e3343)
+- [Podcast on Managing Internal Tools](https://open.spotify.com/episode/5RSo0XqYs1ofXZQYNzEk3H?si=of_SmV9rRkuBeqOR8hsGvw&amp;dl_branch=1) 
 
 # Types of Internal Product Management 
 
