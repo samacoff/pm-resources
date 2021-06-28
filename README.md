@@ -23,8 +23,8 @@ Platform Product Management is the productization of the engineering Platform. A
 ### Books 
 - [Team Topologies](https://teamtopologies.com/) Book by Manuel Pais and Matthew Skelto
 - [Accelerate](https://www.amazon.de/-/en/Nicole-Ph-D-Forsgren/dp/1942788339) Book by Gene Kim, Jez Humble, and Nicole Forsgren
-- [Crossing the Chasm] (https://www.amazon.de/-/en/Geoffrey-Moore/dp/0062292986)
-- Thinking in Systems 
+- [Crossing the Chasm](https://www.amazon.de/-/en/Geoffrey-Moore/dp/0062292986)
+- [Thinking in Systems](https://www.amazon.de/-/en/Diana-Wright/dp/1603580557)
 
 
 ### Podcasts 
